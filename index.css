@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.kunavel{
+    border: 20px solid black;
+    width: 200px;
+    padding: 30px;
+    margin-bottom: 100px;
+}
+.maran{
+    background-color: aqua;
+    width: 150px;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+.kunavell{
+    border: 20px solid red;
+    width: 200px;
+    padding: 40px;
+    margin-top: 50px;
+}
+.marann{
+    background-color: blueviolet;
+    width: 180px;
+    height: 150px;
+}
